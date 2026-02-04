@@ -1,16 +1,32 @@
-# dot_and_box
+# Dots and Boxes 🎯 (Flutter)
 
-A new Flutter project.
+Dots and Boxes is a classic two-player strategy game built using **Flutter** and **Dart**.  
+Players take turns connecting dots to form boxes. Completing a box earns a point and an extra turn.
 
-## Getting Started
+This project is created for learning Flutter UI, game logic, and state management.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- 👥 Two-player gameplay (local)
+- 🟦 Box detection and scoring
+- 🔁 Restart game option
+- 📱 Responsive Flutter UI
+- ⚡ Smooth and lightweight performance
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+- **Flutter**
+- **Dart**
+- Material Design
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
+- Emulator or physical device
+
+### Commands
+```bash
+flutter pub get
+flutter run
